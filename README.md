@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br>
+<hr>
 
 - 🌱 I’m currently learning React.js
 - 💬 Ask me about Web Development
