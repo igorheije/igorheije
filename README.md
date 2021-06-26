@@ -4,7 +4,7 @@
 
 <h3 align="center"> Web Development </h3>
 
-- 🌱 I’m currently learning React.js, Redux and Typescript
-- 💻 Working with JavaScript, NodeJS, ReactJs, Typescript.
+- 🌱 I’m currently learning Nativescript and Vue
+- 💻 Working with JavaScript, NodeJS, ReactJs, React Native, Typescript, Vue.
 - 💬 Ask me about Web Development
 
